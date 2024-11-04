@@ -58,6 +58,9 @@ git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall2 package/luci-
 # zerotier
 echo 'CONFIG_PACKAGE_zerotier=y' >> .config
 
+# ipsec
+echo 'CONFIG_PACKAGE_luci-app-ipsec-vpnd=y' >> .config
+
 # # 修改默认IP
 # sed -i 's/192.168.1.1/192.168.0.2/g' package/base-files/files/bin/config_generate
 

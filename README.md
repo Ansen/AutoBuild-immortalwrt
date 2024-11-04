@@ -9,9 +9,13 @@
 
 - immortalwrt源码： https://github.com/immortalwrt/immortalwrt
 
-### 操作教程由“实用技能”提供 @shiyongjineng
 <details>
 <summary>
+   
+### 操作教程由“实用技能”提供 @shiyongjineng
+
+</summary>
+
 
 #### 观看视频教程↓↓点击下方↓↓进行观看！
 
@@ -21,7 +25,7 @@
 
 [![电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，](https://res.cloudinary.com/marcomontalbano/image/upload/v1692927730/video_to_markdown/images/youtube--EPNsHRj3eXE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/EPNsHRj3eXE "电视盒子专用：利用Flippy内核工具打包，将OpenWrt固件转成img镜像文件，")
 
-</summary>
+
 </details>
 
 ## 使用方法

@@ -12,7 +12,7 @@
 <details>
 <summary>
    
-### 操作教程由“实用技能”提供 @shiyongjineng
+操作教程由“实用技能”提供 @shiyongjineng
 
 </summary>
 
